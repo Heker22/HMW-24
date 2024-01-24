@@ -20,6 +20,7 @@ body {
     border: 2px dashed var(--border-color);
     background-color: var(--background-color);
     margin-bottom: 30px;
+    padding-left: 125px;
 }
 
 .number {
@@ -27,8 +28,11 @@ body {
     margin-right: 20px;
     border: 2px solid var(--number-color);
     background-color: var(--border-number-color);
-    padding: 15px 10px 20px 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
     border-radius: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .text{
 color:var(--text-color) ;
